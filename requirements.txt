@@ -59,5 +59,7 @@ ultralytics
 ultralytics-thop
 urllib3
 Werkzeug
+gunicorn
+
 
 
